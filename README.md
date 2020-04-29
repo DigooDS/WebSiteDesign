@@ -7,7 +7,7 @@
 </h1>
 
 ## 📝 Detalhes do conteúdo
-**WebSiteDesign** não responsivo com o tema Nintendo Switch que eu criei para estudar **Javascript** e **CSS**.
+**WebSite** não responsivo com o tema Nintendo Switch que eu criei para estudar **Javascript** e **CSS**.
 
 ---
 
